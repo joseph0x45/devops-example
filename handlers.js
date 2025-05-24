@@ -6,4 +6,4 @@ func sorry_handler(){
   return "sorry\n"
 }
 
-module.exports = { hello_handler }
+module.exports = { hello_handler, sorry_handler }
