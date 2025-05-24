@@ -1,0 +1,25 @@
+{
+  "name": "devops-example",
+  "version": "1.0.0",
+  "description": "goofy api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseph0x45/devops-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseph0x45/devops-example/issues"
+  },
+  "homepage": "https://github.com/joseph0x45/devops-example#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
