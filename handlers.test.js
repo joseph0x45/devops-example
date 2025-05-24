@@ -5,5 +5,5 @@ test('hello_handler returns "world\\n"', () => {
 });
 
 test('sorry_handler returns "world\\n"', () => {
-  expect(sorry_handler()).toBe("world\n");
+  expect(sorry_handler()).toBe("sorry\n");
 });
