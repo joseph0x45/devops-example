@@ -2,7 +2,7 @@ function hello_handler(){
   return "world\n"
 }
 
-func sorry_handler(){
+function sorry_handler(){
   return "sorry\n"
 }
 
