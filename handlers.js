@@ -6,4 +6,8 @@ function sorry_handler(){
   return "sorry\n"
 }
 
-module.exports = { hello_handler, sorry_handler }
+function fruit_handler(){
+  return "banana\n"
+}
+
+module.exports = { hello_handler, sorry_handler, fruit_handler }
