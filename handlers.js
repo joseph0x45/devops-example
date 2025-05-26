@@ -7,7 +7,7 @@ function sorry_handler(){
 }
 
 function fruit_handler(){
-  return "bananaa\n"
+  return "banana\n"
 }
 
 module.exports = { hello_handler, sorry_handler, fruit_handler }
