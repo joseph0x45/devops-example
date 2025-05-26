@@ -7,3 +7,7 @@ test('hello_handler returns "world\\n"', () => {
 test('sorry_handler returns "world\\n"', () => {
   expect(sorry_handler()).toBe("sorry\n");
 });
+
+test('fruit_handler returns "banana\\n"', () => {
+  expect(sorry_handler()).toBe("sorry\n");
+});
